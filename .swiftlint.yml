@@ -1,0 +1,31 @@
+
+file_length:
+  ignore_comment_only_lines: true
+
+line_length:
+  warning: 150
+  ignores_comments: true
+  ignores_urls: true
+  ignores_interpolated_strings: true
+
+identifier_name:
+  min_length: 1
+  max_length: 1000
+  allowed_symbols: ["_"]
+
+type_name:
+  min_length: 3
+  max_length:
+    warning: 80
+    error: 100
+  allowed_symbols: ["_"]
+
+trailing_comma:
+  mandatory_comma: true
+
+# paths to ignore during linting. Takes precedence over `included`.
+excluded:
+  - .build 
+  - .swiftpm
+  - .github
+
