@@ -1,0 +1,43 @@
+{
+  "configurations" : [
+    {
+      "id" : "A212C609-B922-4777-A5D8-FC756EB28603",
+      "name" : "Test Scheme Action",
+      "options" : {
+        "environmentVariableEntries" : [
+          {
+            "key" : "PACKAGE_RESOURCE_BUNDLE_URL",
+            "value" : "$(BUILT_PRODUCTS_DIR)"
+          }
+        ],
+        "targetForVariableExpansion" : {
+          "containerPath" : "container:UDAExplainer.xcodeproj",
+          "identifier" : "7F0AE2472A3315FF007DAA2A",
+          "name" : "UDAExplainer"
+        }
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:UDAExplainer.xcodeproj",
+          "identifier" : "7F0AE2472A3315FF007DAA2A",
+          "name" : "UDAExplainer"
+        }
+      ]
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:UDAExplainer.xcodeproj",
+        "identifier" : "7F0AE2512A3315FF007DAA2A",
+        "name" : "UDAExplainerTests"
+      }
+    }
+  ],
+  "version" : 1
+}

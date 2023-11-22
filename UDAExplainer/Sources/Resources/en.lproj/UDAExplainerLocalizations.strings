@@ -1,0 +1,86 @@
+/* 
+  UDAExplainerLocalizations.strings
+  UDAExplainer
+
+  Created by Kaijie Yu on 26/4/2023.
+  Copyright © 2023 Kaijie Yu. All rights reserved.
+*/
+
+// MARK: - Shared
+
+"Continue" = "Continue";
+"Shared:Title (Usage: %@)" = "Allow %@ on the next screen for:";
+"Shared:Footnote (SettingsOption: %@)" = "You can change this option later in the Settings app.\n(The settings option is \"%@\".)";
+
+// MARK: - Local Network
+
+"LocalNetwork:UsageName" = "local network usage";
+"LocalNetwork:SettingsOption" = "Local Network";
+"LocalNetwork:Declare" = "We will not surreptitiously access your local devices.";
+// - Details Sample
+"LocalNetwork:Details:Sample" = "";
+"LocalNetwork:Details:Sample:Subtitle" = "";
+
+// MARK: - User Tracking (IDFA: Identifier for Advertisers)
+
+"UserTracking:UsageName" = "tracking";
+"UserTracking:SettingsOption" = "Allow Tracking";
+"UserTracking:Declare" = "We will not obtain your data stored inner App, let alone share them with any third party.";
+// - Details Sample
+"UserTracking:Details:Sample" = "Advertisements that match your interests";
+"UserTracking:Details:Sample:Subtitle" = "Ads help support our further development. Tap \"Allow\" on the following popup message to give permission to show ads that are more relevant to you.";
+
+// MARK: - Biometry - Face ID
+
+"FaceID:UsageName" = "Face ID usage";
+"FaceID:SettingsOption" = "Face ID";
+"FaceID:Declare" = "";
+// - Details Sample
+"FaceID:Details:Sample" = "App unlocking";
+"FaceID:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to use Face ID to unlock the app that's in auto-locked status.";
+
+// MARK: - Camera
+
+"Camera:UsageName" = "camera usage";
+"Camera:SettingsOption" = "Camera";
+"Camera:Declare" = "We will not surreptitiously turn on the camera.";
+// - Details Sample
+"Camera:Details:Sample" = "Taking photos";
+"Camera:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to use the Camera to take photos.";
+
+// MARK: - Photos Library
+
+"PhotoLibrary:UsageName" = "Photos library usage";
+"PhotoLibrary:SettingsOption" = "Photos";
+"PhotoLibrary:Declare" = "We will not surreptitiously scan your photos.";
+// - Details Sample
+"PhotoLibrary:Details:Sample" = "Photos selection";
+"PhotoLibrary:Details:Sample:Subtitle" = "Tap \"Select Photos...\" or \"Allow Access to All Photos\" on the following popup message to give permission to list available photos for selection.";
+
+// MARK: - Photos Library Add to Custom Album
+
+"PhotoLibraryAddToCustomAlbum:UsageName" = "Photos library usage";
+"PhotoLibraryAddToCustomAlbum:SettingsOption" = "Photos";
+"PhotoLibraryAddToCustomAlbum:Declare" = "We will not surreptitiously scan your photos.";
+// - Details Sample
+"PhotoLibraryAddToCustomAlbum:Details:Sample:1" = "Looking for the custom album";
+"PhotoLibraryAddToCustomAlbum:Details:Sample:2" = "Saving photos";
+"PhotoLibraryAddToCustomAlbum:Details:Sample:Subtitle" = "Tap \"Select Photos...\" (you can select none) or \"Allow Access to All Photos\" on the following popup message to give permission to look for the custom album and save photos there.";
+
+// MARK: - Photos Library Add Only
+
+"PhotoLibraryAddOnly:UsageName" = "Photos library usage";
+"PhotoLibraryAddOnly:SettingsOption" = "Photos";
+"PhotoLibraryAddOnly:Declare" = "We will not surreptitiously scan your photos.";
+// - Details Sample
+"PhotoLibraryAddOnly:Details:Sample" = "Saving photos";
+"PhotoLibraryAddOnly:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to save photos to the Photos album.";
+
+// MARK: - Apple Music (Media & Apple Music)
+
+"AppleMusic:UsageName" = "Media & Apple Music usage";
+"AppleMusic:SettingsOption" = "Media & Apple Music";
+"AppleMusic:Declare" = "We will not surreptitiously scan your media and music.";
+// - Details Sample
+"AppleMusic:Details:Sample" = "";
+"AppleMusic:Details:Sample:Subtitle" = "";

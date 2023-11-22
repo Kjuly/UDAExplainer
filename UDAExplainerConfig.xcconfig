@@ -1,0 +1,13 @@
+//
+//  UDAExplainerConfig.xcconfig
+//  UDAExplainerPreviews
+//
+//  Created by Kjuly on 12/6/2023.
+//  Copyright © 2023 Kaijie Yu. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DEVELOPMENT_TEAM = XXXXXXXXXX
+
