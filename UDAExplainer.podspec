@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "UDAExplainer"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.2"
   spec.summary      = "Sensitive user data access explainer."
   spec.description  = <<-DESC
   Sensitive user data access explainer, such as for Photos Library, Face ID, App Tracking Transparency, etc.
