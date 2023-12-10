@@ -23,6 +23,15 @@ Sensitive user data access explainer, such as for Photos Library, Face ID, App T
 <img src="https://raw.githubusercontent.com/Kjuly/preview/main/UDAExplainer/iPad_01.png" alt="iPad Preview" height="360" />
 </div>
 
+## Installation
+
+See the following subsections for details on the different installation methods.
+
+- [Swift Package Manager](INSTALLATION.md#swift-package-manager)
+- [CocoaPods](INSTALLATION.md#cocoaPods)
+- [Carthage](INSTALLATION.md#carthage)
+- [Submodule](INSTALLATION.md#submodule)
+
 ## Usage with Swift UI
 
 ```Swift
