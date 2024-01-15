@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
   spec.name         = "UDAExplainer"
-  spec.version      = "1.1.4"
+  spec.version      = "1.1.5"
   spec.summary      = "Sensitive user data access explainer."
   spec.description  = <<-DESC
-  Sensitive user data access explainer, such as for Photos Library, Face ID, App Tracking Transparency, etc.
+  Sensitive user data access explainer, such as for Photo Library, Face ID, App Tracking Transparency, etc.
                    DESC
   spec.license      = "MIT"
   spec.source       = { :git => "https://github.com/Kjuly/UDAExplainer.git", :tag => "#{spec.version}" }
