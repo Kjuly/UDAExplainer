@@ -43,7 +43,7 @@ public enum UDAExplainerType: Int, Identifiable, CaseIterable {
   ///
   case camera
 
-  /// Photos Library Usage (NSPhotoLibraryUsageDescription).
+  /// Photo Library Usage (NSPhotoLibraryUsageDescription).
   ///
   /// For a message that tells the user why the app is requesting access to the user’s photo library.
   ///
@@ -67,7 +67,7 @@ public enum UDAExplainerType: Int, Identifiable, CaseIterable {
   ///
   case photoLibrary
 
-  /// Photos Library Usage for Saving to Custom Album (NSPhotoLibraryUsageDescription).
+  /// Photo Library Usage for Saving to Custom Album (NSPhotoLibraryUsageDescription).
   ///
   /// For a message that tells the user why the app is requesting access to the user’s photo library.
   ///
@@ -79,7 +79,7 @@ public enum UDAExplainerType: Int, Identifiable, CaseIterable {
   ///
   case photoLibraryAddToCustomAlbum
 
-  /// Photos Library Add Usage (NSPhotoLibraryAddUsageDescription).
+  /// Photo Library Add Usage (NSPhotoLibraryAddUsageDescription).
   ///
   /// For a message that tells the user why the app is requesting add-only access to the user’s photo library.
   ///

@@ -75,7 +75,7 @@ final class UDAExplainerDefaultDataSourceTests: XCTestCase {
     // Photo Library
     config = dataSource.uda_explainerConfiguration(for: .photoLibrary, inCompactDevice: true)
     XCTAssertEqual(config.type, UDAExplainerType.photoLibrary)
-    XCTAssertEqual(config.title, "Allow Photos library usage on the next screen for:")
+    XCTAssertEqual(config.title, "Allow Photo Library usage on the next screen for:")
     XCTAssertEqual(config.declareIconName, "checkmark.shield.fill")
     XCTAssertEqual(config.declareText, "We will not surreptitiously scan your photos.")
     XCTAssertEqual(config.continueButtonTitle, "Continue")
@@ -86,7 +86,7 @@ final class UDAExplainerDefaultDataSourceTests: XCTestCase {
     // Photo Library Add To Custom Album
     config = dataSource.uda_explainerConfiguration(for: .photoLibraryAddToCustomAlbum, inCompactDevice: true)
     XCTAssertEqual(config.type, UDAExplainerType.photoLibraryAddToCustomAlbum)
-    XCTAssertEqual(config.title, "Allow Photos library usage on the next screen for:")
+    XCTAssertEqual(config.title, "Allow Photo Library usage on the next screen for:")
     XCTAssertEqual(config.declareIconName, "checkmark.shield.fill")
     XCTAssertEqual(config.declareText, "We will not surreptitiously scan your photos.")
     XCTAssertEqual(config.continueButtonTitle, "Continue")
@@ -97,7 +97,7 @@ final class UDAExplainerDefaultDataSourceTests: XCTestCase {
     // Photo Library Add Only
     config = dataSource.uda_explainerConfiguration(for: .photoLibraryAddOnly, inCompactDevice: true)
     XCTAssertEqual(config.type, UDAExplainerType.photoLibraryAddOnly)
-    XCTAssertEqual(config.title, "Allow Photos library usage on the next screen for:")
+    XCTAssertEqual(config.title, "Allow Photo Library usage on the next screen for:")
     XCTAssertEqual(config.declareIconName, "checkmark.shield.fill")
     XCTAssertEqual(config.declareText, "We will not surreptitiously scan your photos.")
     XCTAssertEqual(config.continueButtonTitle, "Continue")

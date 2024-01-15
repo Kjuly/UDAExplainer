@@ -48,7 +48,7 @@
 "Camera:Details:Sample" = "拍摄照片";
 "Camera:Details:Sample:Subtitle" = "在接下来的弹出框中点按“好”，以授权允许使用照相机拍摄照片。";
 
-// MARK: - Photos Library
+// MARK: - Photo Library
 
 "PhotoLibrary:UsageName" = "访问照片库";
 "PhotoLibrary:SettingsOption" = "照片";
@@ -57,7 +57,7 @@
 "PhotoLibrary:Details:Sample" = "选择已有照片";
 "PhotoLibrary:Details:Sample:Subtitle" = "在接下来的弹出框中点按“选择照片…”或“允许访问所有照片”，以授权允许列出照片库中的照片供选择。";
 
-// MARK: - Photos Library Add to Custom Album
+// MARK: - Photo Library Add to Custom Album
 
 "PhotoLibraryAddToCustomAlbum:UsageName" = "访问照片库";
 "PhotoLibraryAddToCustomAlbum:SettingsOption" = "照片";
@@ -67,7 +67,7 @@
 "PhotoLibraryAddToCustomAlbum:Details:Sample:2" = "另存照片";
 "PhotoLibraryAddToCustomAlbum:Details:Sample:Subtitle" = "在接下来的弹出框中点按“选择照片…”（可不选任何照片）或“允许访问所有照片”，以授权查找自定义相册，以另存应用中的照片到此相册。";
 
-// MARK: - Photos Library Add Only
+// MARK: - Photo Library Add Only
 
 "PhotoLibraryAddOnly:UsageName" = "访问照片库";
 "PhotoLibraryAddOnly:SettingsOption" = "照片";

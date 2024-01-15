@@ -41,9 +41,9 @@ final class UDAExplainerTypeTests: XCTestCase {
     XCTAssertEqual(UDAExplainerType.userTracking.defaultLocalizedUsageName, "tracking")
     XCTAssertEqual(UDAExplainerType.faceID.defaultLocalizedUsageName, "Face ID usage")
     XCTAssertEqual(UDAExplainerType.camera.defaultLocalizedUsageName, "camera usage")
-    XCTAssertEqual(UDAExplainerType.photoLibrary.defaultLocalizedUsageName, "Photos library usage")
-    XCTAssertEqual(UDAExplainerType.photoLibraryAddToCustomAlbum.defaultLocalizedUsageName, "Photos library usage")
-    XCTAssertEqual(UDAExplainerType.photoLibraryAddOnly.defaultLocalizedUsageName, "Photos library usage")
+    XCTAssertEqual(UDAExplainerType.photoLibrary.defaultLocalizedUsageName, "Photo Library usage")
+    XCTAssertEqual(UDAExplainerType.photoLibraryAddToCustomAlbum.defaultLocalizedUsageName, "Photo Library usage")
+    XCTAssertEqual(UDAExplainerType.photoLibraryAddOnly.defaultLocalizedUsageName, "Photo Library usage")
     XCTAssertEqual(UDAExplainerType.appleMusic.defaultLocalizedUsageName, "Media & Apple Music usage")
   }
 

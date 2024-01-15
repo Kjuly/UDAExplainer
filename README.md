@@ -1,6 +1,6 @@
 # UDAExplainer
 
-Sensitive user data access explainer, such as for Photos Library, Face ID, App Tracking Transparency, etc.
+Sensitive user data access explainer, such as for Photo Library, Face ID, App Tracking Transparency, etc.
 
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FKjuly%2FUDAExplainer%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/Kjuly/UDAExplainer)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FKjuly%2FUDAExplainer%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/Kjuly/UDAExplainer)  

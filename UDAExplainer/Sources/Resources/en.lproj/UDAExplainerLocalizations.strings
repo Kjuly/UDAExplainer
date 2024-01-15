@@ -48,18 +48,18 @@
 "Camera:Details:Sample" = "Taking photos";
 "Camera:Details:Sample:Subtitle" = "Tap \"OK\" on the following popup message to give permission to use the Camera to take photos.";
 
-// MARK: - Photos Library
+// MARK: - Photo Library
 
-"PhotoLibrary:UsageName" = "Photos library usage";
+"PhotoLibrary:UsageName" = "Photo Library usage";
 "PhotoLibrary:SettingsOption" = "Photos";
 "PhotoLibrary:Declare" = "We will not surreptitiously scan your photos.";
 // - Details Sample
 "PhotoLibrary:Details:Sample" = "Photos selection";
 "PhotoLibrary:Details:Sample:Subtitle" = "Tap \"Select Photos...\" or \"Allow Access to All Photos\" on the following popup message to give permission to list available photos for selection.";
 
-// MARK: - Photos Library Add to Custom Album
+// MARK: - Photo Library Add to Custom Album
 
-"PhotoLibraryAddToCustomAlbum:UsageName" = "Photos library usage";
+"PhotoLibraryAddToCustomAlbum:UsageName" = "Photo Library usage";
 "PhotoLibraryAddToCustomAlbum:SettingsOption" = "Photos";
 "PhotoLibraryAddToCustomAlbum:Declare" = "We will not surreptitiously scan your photos.";
 // - Details Sample
@@ -67,9 +67,9 @@
 "PhotoLibraryAddToCustomAlbum:Details:Sample:2" = "Saving photos";
 "PhotoLibraryAddToCustomAlbum:Details:Sample:Subtitle" = "Tap \"Select Photos...\" (you can select none) or \"Allow Access to All Photos\" on the following popup message to give permission to look for the custom album and save photos there.";
 
-// MARK: - Photos Library Add Only
+// MARK: - Photo Library Add Only
 
-"PhotoLibraryAddOnly:UsageName" = "Photos library usage";
+"PhotoLibraryAddOnly:UsageName" = "Photo Library usage";
 "PhotoLibraryAddOnly:SettingsOption" = "Photos";
 "PhotoLibraryAddOnly:Declare" = "We will not surreptitiously scan your photos.";
 // - Details Sample
