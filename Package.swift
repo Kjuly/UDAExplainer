@@ -23,7 +23,10 @@ let package = Package(
       name: "UDAExplainer",
       dependencies: [
       ],
-      path: "UDAExplainer/Sources"),
+      path: "UDAExplainer/Sources",
+      resources: [
+        .process("Resources/"),
+      ]),
     .testTarget(
       name: "UDAExplainerTests",
       dependencies: [
