@@ -76,7 +76,6 @@ public struct UDAExplainerView: View {
     }
   }
 
-  @ViewBuilder
   func _contentView() -> some View {
     ZStack {
       Color(uiColor: UIColor(self.config.colorSet.background))
@@ -90,7 +89,6 @@ public struct UDAExplainerView: View {
     }
   }
 
-  @ViewBuilder
   func _scrollView() -> some View {
     ScrollView(.vertical, showsIndicators: false) {
       VStack(alignment: .leading, spacing: 0) {
@@ -149,7 +147,6 @@ public struct UDAExplainerView: View {
 
   // MARK: - Private (Bottom Content View)
 
-  @ViewBuilder
   private func _declareMessageLabel() -> some View {
     HStack(alignment: .center, spacing: KYUDAExplainerUIDimension.padding_15) {
       if let declareIconName = self.config.declareIconName {
@@ -161,7 +158,6 @@ public struct UDAExplainerView: View {
     }
   }
 
-  @ViewBuilder
   private func _bottomContentView() -> some View {
     VStack(alignment: .center, spacing: 0) {
       if !self.config.declareText.isEmpty {

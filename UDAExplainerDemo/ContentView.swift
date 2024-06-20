@@ -57,7 +57,6 @@ struct ContentView: View {
 
   // MARK: - Subviews
 
-  @ViewBuilder
   private func _listView() -> some View {
     List(UDAExplainerType.allCases) { type in
       Button(type.key) {
@@ -71,7 +70,6 @@ struct ContentView: View {
     }
   }
 
-  @ViewBuilder
   private func _statusView() -> some View {
     VStack(alignment: .center, spacing: 10) {
       Divider().padding(.bottom, 10)
